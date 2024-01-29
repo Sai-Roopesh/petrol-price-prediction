@@ -1,6 +1,9 @@
 # Ignore research/data folder
 research/data/
 
+#Ignore the artifacts folder
+artifacts/
+
 # Ignore virtual environment
 venv/
 

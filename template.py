@@ -22,7 +22,7 @@ list_of_files = [
     'research/trials.ipynb',
     'research/data/.gitkeep',
     'templates/index.html',
-
+    'src/exception.py'
 ]
 
 for file in list_of_files:
